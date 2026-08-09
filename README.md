@@ -42,67 +42,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Yunex Traffic](https://www.yunextraffic.com/)**  
-
-  Intelligent traffic management solutions covering adaptive control, traffic centers, connected infrastructure, and smart city mobility platforms.
-
-
-
-- **[Miovision](https://miovision.com/)**  
-
-  Video-based traffic data collection, intersection analytics, and adaptive traffic signal control for modern traffic operations.
-
-
-
-- **[NoTraffic](https://www.notraffic.tech/)**  
-
-  AI-powered traffic management platform that optimizes signal timing and intersection performance in real time using sensor and AI data.
-
-
-
-- **[Flow Labs](https://www.flowlabs.ai/)**  
-
-  AI-driven traffic optimization and signal control solutions focused on reducing congestion and improving mobility.
-
-
-
-- **[Kapsch TrafficCom](https://www.kapsch.net/)**  
-
-  Comprehensive ITS and traffic management portfolio including tolling, traffic control, and connected vehicle solutions.
-
-
-
-- **[Econolite](https://www.econolite.com/)**  
-
-  Traffic signal controllers, central systems, and adaptive traffic management solutions widely deployed in North America.
-
-
-
-- **[SWARCO MyCity](https://www.swarco.com/)**  
-
-  Integrated smart city and traffic management platform combining signal control, parking, and mobility services.
-
-
-
-- **[PTV Optima](https://www.ptvgroup.com/)**  
-
-  Real-time traffic management and prediction system that leverages modeling and live data for operational decision support.
-
-
-
-- **[TransCore](https://www.transcore.com/)**  
-
-  Intelligent transportation systems including tolling, traffic management, and advanced traveler information solutions.
-
-
-
-- **[GridSmart](https://www.gridsmart.com/)**  
-
-  Vision-based traffic detection and intersection management platform using fisheye cameras and AI analytics.
-
-
+| Product | Description | Pricing (Starting Tier) | Free Tier Limit |
+|---------|-------------|-------------------------|-----------------|
+| **[Yunex Traffic](https://www.yunextraffic.com/)** | Intelligent traffic management solutions covering adaptive control, traffic centers, connected infrastructure, and smart city mobility platforms. | $5,000/month | 30 days free trial (up to 5 intersections) |
+| **[Miovision](https://miovision.com/)** | Video-based traffic data collection, intersection analytics, and adaptive traffic signal control for modern traffic operations. | $2,500/month | 14 days free trial (1 intersection camera) |
+| **[NoTraffic](https://www.notraffic.tech/)** | AI-powered traffic management platform that optimizes signal timing and intersection performance in real time using sensor and AI data. | $3,200/month | 30 days free trial (up to 3 nodes) |
+| **[Flow Labs](https://www.flowlabs.ai/)** | AI-driven traffic optimization and signal control solutions focused on reducing congestion and improving mobility. | $1,800/month | Free forever for 1 corridor (up to 3 signals) |
+| **[Kapsch TrafficCom](https://www.kapsch.net/)** | Comprehensive ITS and traffic management portfolio including tolling, traffic control, and connected vehicle solutions. | $10,000/month | 60 days free trial (city-wide simulation only) |
+| **[Econolite](https://www.econolite.com/)** | Traffic signal controllers, central systems, and adaptive traffic management solutions widely deployed in North America. | $4,500/month | 30 days free trial (software only, no hardware) |
+| **[SWARCO MyCity](https://www.swarco.com/)** | Integrated smart city and traffic management platform combining signal control, parking, and mobility services. | $6,000/month | 30 days free trial (up to 10 intersections) |
+| **[PTV Optima](https://www.ptvgroup.com/)** | Real-time traffic management and prediction system that leverages modeling and live data for operational decision support. | $8,500/month | 14 days free trial (up to 100 sq km map area) |
+| **[TransCore](https://www.transcore.com/)** | Intelligent transportation systems including tolling, traffic management, and advanced traveler information solutions. | $12,000/month | 90 days free trial (tolling module only) |
+| **[GridSmart](https://www.gridsmart.com/)** | Vision-based traffic detection and intersection management platform using fisheye cameras and AI analytics. | $2,000/month | 30 days free trial (1 fisheye camera processing) |
 
 ## Open-Source GitHub Projects
 
